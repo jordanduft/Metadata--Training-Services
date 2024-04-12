@@ -1,4 +1,6 @@
-#Tim Drools NO HE DOESN'T
+
+#Tim Drools NO HE DOESN'T - for real
+
 import os
 import arcpy
 
