@@ -9,4 +9,4 @@ This is Jordan and Tim collaborating on a script tool!
     - Start small. This means, write a script (at first) that allows for:
     - 1 input dataset
     - Adds standard Esri disclaimer, which changes whether it's MOOC or non-MOOC.
-[] Clean up and adapt Jim's script
+- [] Clean up and adapt Jim's script
